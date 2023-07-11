@@ -1,5 +1,6 @@
 package br.com.banco.dto;
 
+import br.com.banco.entity.Transferencia;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
